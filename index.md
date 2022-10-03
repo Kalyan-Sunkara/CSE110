@@ -14,6 +14,7 @@ while(true){
 
 
 ![link](/CSE110/screenshots/profilepic.jpg)
+
 **Computer Science Student at University of California, San Diego**
 
 **Software Devloper Intern at Aruba Networks**
